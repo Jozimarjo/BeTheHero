@@ -1,4 +1,5 @@
 # BeTheHero_Frontend
+Desenvolvimento de uma aplicação que irá conectar voluntários(Heroes) a ONGs (Organizações Não Governamentais) que necessitem ajuda para suas atividades.
 
 ## Tecnologias utilizadas
 
@@ -12,11 +13,11 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cristianojr9/be-the-hero
+$ git clone https://github.com/Jozimarjo/BeTheHero_Frontend
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the app
-$ yarn start
+$ npm start
 ```
