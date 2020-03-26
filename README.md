@@ -3,7 +3,7 @@ Desenvolvimento de uma aplicação que irá conectar voluntários(Heroes) a ONGs
 
 ![Imagem final do projeto](https://github.com/Jozimarjo/BeTheHero_Frontend/blob/master/frontend/src/assets/bethehero.png)
 
-## Tecnologias utilizadas
+## :scroll: Tecnologias utilizadas
 
 - ESLint
 - Prettier
@@ -12,7 +12,7 @@ Desenvolvimento de uma aplicação que irá conectar voluntários(Heroes) a ONGs
 - React Hooks
 - React Icons
 
-## Como usar este projeto
+## :video_game: Como usar este projeto
 
 ```bash
 # Clone this repository
