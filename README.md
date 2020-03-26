@@ -23,3 +23,4 @@ $ npm install
 # Run the app
 $ npm start
 ```
+O projeto esta disponivel no endereço: http://localhost:3000
