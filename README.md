@@ -1,7 +1,7 @@
 # BeTheHero_Frontend
 Desenvolvimento de uma aplicação que irá conectar voluntários(Heroes) a ONGs (Organizações Não Governamentais) que necessitem ajuda para suas atividades.
 
-https://github.com/Jozimarjo/BeTheHero_Frontend/blob/master/frontend/src/assets/bethehero.png
+![Imagem final do projeto](https://github.com/Jozimarjo/BeTheHero_Frontend/blob/master/frontend/src/assets/bethehero.png)
 
 ## Tecnologias utilizadas
 
