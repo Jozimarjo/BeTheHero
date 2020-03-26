@@ -7,8 +7,9 @@ Desenvolvimento de uma aplicação que irá conectar voluntários(Heroes) a ONGs
 
 - ESLint
 - Prettier
+- Axios
 - React
-- React-Router-Dom
+- React Hooks
 - React Icons
 
 ## Como usar este projeto
